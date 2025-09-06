@@ -312,6 +312,7 @@
   color: var(--primary-color);
 }
 
+
 /* Responsive design */
 @media (max-width: 780px) {
   .nav-links {
